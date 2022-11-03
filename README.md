@@ -24,6 +24,8 @@
 
 <p>Ao longo da história, uma série de teorias negacionistas surgiram, e os dois principais âmbitos nos quais elas se estabeleceram foram o da ciência e o da história. Sendo assim, definições da ciência vistas como unanimidade entre os pesquisadores são questionadas com base de falsas evidências, e fatos da história que são consenso entre os historiadores também são questionados por negacionistas.</p>
 
+<img id="T" src="download.JPG">
+
 <h1>H᥆ᥣ᥆ᥴᥲᥙ᥉t᥆</h1>
 <p>Uma das teorias negacionistas de maior alcance e mais combatidas por especialistas da área é a que afirma que o Holocausto não aconteceu e que ele foi uma falsificação. Essa afirmação é falsa, uma vez que a historiografia possui amplas evidências, como documentos, edifícios, imagens, filmagens e depoimentos, que comprovam a existência do Holocausto.</p>
 
@@ -50,3 +52,5 @@
 <p>Na história, destaca-se o negacionismo do Holocausto.</p>
 
 <p>Na ciência, destacam-se o negacionismo do aquecimento global e o da esfericidade da Terra.</p>
+
+<img id="R" src="200910-Negacionismo.JPEG">
